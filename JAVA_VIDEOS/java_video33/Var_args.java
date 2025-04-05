@@ -1,7 +1,5 @@
 package JAVA_VIDEOS.java_video33;
 
-import java.sql.SQLOutput;
-
 public class Var_args {
     static int sum(int ...arr){
          int result=0;
