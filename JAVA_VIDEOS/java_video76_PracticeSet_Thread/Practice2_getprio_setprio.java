@@ -1,7 +1,6 @@
 package JAVA_VIDEOS.java_video76_PracticeSet_Thread;
 
 class Priority extends Thread{
-
 }
 public class Practice2_getprio_setprio {
     public static void main(String[] args) {

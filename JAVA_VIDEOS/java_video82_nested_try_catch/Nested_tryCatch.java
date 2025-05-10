@@ -19,7 +19,7 @@ public class Nested_tryCatch {
                     System.out.println(a[b]);
                     System.out.println("LEVEL 3");
                     flag = false;
-                } catch (IndexOutOfBoundsException e) {
+                }catch(IndexOutOfBoundsException e) {
                     System.out.println(e);
                     System.out.println("LEVEL 3");
                 }

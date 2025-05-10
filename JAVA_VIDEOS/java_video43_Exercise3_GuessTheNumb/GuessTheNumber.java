@@ -85,6 +85,5 @@ public class GuessTheNumber {
         NUMBERS.calculation();
         NUMBERS.getNoOfGuess();
 
-
     }
 }

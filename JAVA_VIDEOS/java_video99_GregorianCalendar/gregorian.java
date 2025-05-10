@@ -2,7 +2,6 @@ package JAVA_VIDEOS.java_video99_GregorianCalendar;
 
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
-
 public class gregorian {
     public static void main(String[] args) {
         GregorianCalendar c=new GregorianCalendar();
